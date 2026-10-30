@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; color: #263b2c; background: #f3f7f1; margin: 0; }
+.header { display: flex; align-items: center; gap: 18px; background: #dbead8; padding: 20px 8%; }
+.header img { width: 64px; height: 64px; }
+.archive { max-width: 850px; margin: 24px auto; padding: 0 20px; }
+.one-post { background: white; margin-bottom: 18px; padding: 16px 22px; border: 1px solid #ccddc8; border-radius: 5px; }
+.post-title { margin: 0 0 10px; }
+.article-info { display: flex; gap: 20px; color: #56705a; font-size: 14px; }
+.article-text { line-height: 1.5; }
